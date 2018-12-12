@@ -1,7 +1,5 @@
 body {
-    margin: 0em;
-
-    
+    margin: 0em;   
 }
 #upper ul li a {
     float: right;   
@@ -9,8 +7,6 @@ body {
 }
 #upper  {
     padding-bottom: 2em;
-    
-
 }
 input[type='text2']{
     width: 40%;
@@ -44,7 +40,6 @@ a{
     margin: .5em;
    
 }
-
 ul{
     list-style: none;
 }
