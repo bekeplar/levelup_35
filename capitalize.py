@@ -2,7 +2,7 @@
 # printing a given sentence in capital letters.
 #print(words.upper())
 def capitalize(sen):
-    """Function to capitalize a given function."""
+    """Function to capitalize a given sentence."""
     return sen.upper()
 
 if __name__ == '__main__':
